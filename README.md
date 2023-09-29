@@ -2,7 +2,7 @@
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicons/devicon/icons/jenkins/jenkins-line.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-line.svg" title="Jenkins" **alt="Jenkins" width="40" height="40"/>&nbsp;
 </p>
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
