@@ -14,11 +14,13 @@
 <img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/xscope-logo.svg" title="xScope" alt="xScope" width="40" height="40" />&nbsp;
 <img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/typewriter-logo.svg" title="TypeWriter" alt="TypeWriter" width="40" height="40" />&nbsp;
 
-## Build, Source Code Management, Continuous Integration, Testing
+## Code Management and Testing
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  title="Git" alt="Git" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/gerrit-logo.jpg" title="Gerrit Code Review" alt="Gerrit Code Review" width="40" height="40" />&nbsp;
+<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/fork-logo.jpg" title="Fork Git Client" alt="Fork Git Client" width="40" height="40" />&nbsp;
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-line.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-Fork
 
 ## Programming Languages
 
@@ -32,8 +34,9 @@ Fork
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 
-## Others
+## Collaboration
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" title="Confluence" alt="Confluence" width="40" height="40"/>&nbsp;
 UTM
 iHex
 Zoom
