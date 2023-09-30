@@ -1,16 +1,8 @@
-# Things I Use for My Work
+## Things I Use for My Work
 
-|Development|Graphical Work|
+|**Development**|**Graphical Work**|
 |---|---|
-|<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/vscode-logo.svg" title="Visual Studio Code" alt="Visual Studio Code" width="60" height="60" />&nbsp;
-<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/araxis-merge.jpg" title="Araxis Merge" alt="Araxis Merge" width="40" height="40" />&nbsp;
-<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/textmate-logo.png" title="TextMate" alt="TextMate" width="40" height="40" />&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40" />&nbsp;
-|<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/acorn-logo.png" title="Acorn" alt="Acorn" width="40" height="40" />&nbsp;
-<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/graphic-logo.svg" title="Graphic.app" alt="Graphic.app" width="40" height="40" />&nbsp;
-<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/xscope-logo.svg" title="xScope" alt="xScope" width="40" height="40" />&nbsp;
-<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/typewriter-logo.svg" title="TypeWriter" alt="TypeWriter" width="40" height="40" />&nbsp;
-|
+|<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/vscode-logo.svg" title="Visual Studio Code" alt="Visual Studio Code" width="60" height="60" />&nbsp;<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/araxis-merge.jpg" title="Araxis Merge" alt="Araxis Merge" width="40" height="40" />&nbsp;<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/textmate-logo.png" title="TextMate" alt="TextMate" width="40" height="40" />&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" alt="Xcode" width="40" height="40" />&nbsp;|<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/acorn-logo.png" title="Acorn" alt="Acorn" width="40" height="40" />&nbsp;<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/graphic-logo.svg" title="Graphic.app" alt="Graphic.app" width="40" height="40" />&nbsp;<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/xscope-logo.svg" title="xScope" alt="xScope" width="40" height="40" />&nbsp;<img src="https://raw.githubusercontent.com/mike-lischke/mike-lischke/master/images/typewriter-logo.svg" title="TypeWriter" alt="TypeWriter" width="40" height="40" />&nbsp;|
 
 ### Code Management and Testing
           
