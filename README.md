@@ -3,7 +3,7 @@
 ## Development
 
 Visual Studio Code
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio Code" **alt="Visual Studio Code" width="40" height="40" />
           
 Araxis Merge
 TextMate
